@@ -113,3 +113,6 @@ Add your JWT token in GraphQL Playground headers:
   "start": "node src/index.js"
 }
 ```
+---
+< By Omar Abdelmoaty />
+
